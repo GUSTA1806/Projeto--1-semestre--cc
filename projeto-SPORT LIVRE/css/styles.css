@@ -1,0 +1,65 @@
+body {
+    overflow-y: scroll;
+    background: url("../img/sport_livre_blurred.png");
+    background-size: cover;
+    height: 92vh;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+a:hover {
+    opacity: 0.7;
+}
+
+.logo {
+    font-size: 24px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: bold;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+    background-color: #fff;
+    height: 8vh;
+}
+
+
+
+.nav-list {
+    list-style: none;
+    display: flex;
+}
+
+.nav-list a {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.nav-list li {
+    letter-spacing: 8px;
+    margin-left: 32px;
+}
+
+.content{
+    text-align: left;
+    padding-top: 175px;
+    padding-left: 50px;
+
+}
+
+
+
