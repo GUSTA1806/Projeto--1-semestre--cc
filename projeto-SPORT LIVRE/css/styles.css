@@ -78,7 +78,7 @@ body {
   
   .Empresa {
     padding: 100px 50px;
-    background-color: #f8f8f8;
+    background-color: #fff;
     min-height: 650px;
   }
   
@@ -133,7 +133,7 @@ body {
 
   .Servicos {
     padding: 100px 50px;
-    background-color: #fdfcfc;
+    background-color: #fff;;
     min-height: 500px;
   }
    
@@ -222,12 +222,12 @@ body {
     margin-bottom: 60px; 
     font-size: 18px;   
     padding: 10px;       
-    background-color: #fdfafa;  
+    background-color: #fff;  
   }
 
   .equipe {
     padding: 50px 20px;
-    background-color: #f8f8f8;
+    background-color: #fff;
     text-align: center;
   }
   
@@ -254,7 +254,7 @@ body {
   }
   
   .membro {
-    background-color: #fff;
+    background-color: #8d8c8c;
     border-radius: 10px;
     width: 250px; 
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -291,7 +291,7 @@ body {
   .membro p {
     font-family: 'Lexend', sans-serif;
     font-size: 12px;
-    color: #555;
+    color: #030303;
   }
 
   .membro:hover {
